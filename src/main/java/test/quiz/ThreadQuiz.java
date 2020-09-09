@@ -66,6 +66,8 @@ public class ThreadQuiz {
     @Test
     public void quiz3() throws InterruptedException {
 
+        //Здесь я ошибся
+
         // Choose correct answer:
         // Throws exception at runtime.
         // Prints "Inside Thread Inside Thread".
